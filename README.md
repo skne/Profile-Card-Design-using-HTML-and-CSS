@@ -6,7 +6,6 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 Profile Card Design using HTML and CSS
@@ -19,6 +18,7 @@ Desktop
 ![Desktop](design/design-desktop.png)
 
 Mobile
+
 ![Mobile](design/design-mobile.png)
 
 
