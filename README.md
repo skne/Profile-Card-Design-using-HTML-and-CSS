@@ -14,14 +14,18 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 
 ### Screenshot
+
+Desktop
 ![Desktop](design/design-desktop.png)
+
+Mobile
 ![Mobile](design/design-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-design-using-html-and-css-W82AJCw-y7)
+- Live Site URL: [Add live site URL here](https://skne.github.io/Profile-Card-Design-using-HTML-and-CSS/)
 
 
 ### Built with
